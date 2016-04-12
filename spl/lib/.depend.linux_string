@@ -1,0 +1,21 @@
+/home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/spl/lib/linux_string.o: \
+ linux_string.c \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/include/linux/ctype.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/include/linux/string.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/include/linux/types.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/include/linux/posix_types.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/include/linux/stddef.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/arch/arm/include/asm/posix_types.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/arch/arm/include/asm/types.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabi/4.7/include/stdbool.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/arch/arm/include/asm/string.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/include/config.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/include/config_cmd_defaults.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/include/config_defaults.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/include/configs/zynq_zed.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/include/configs/zynq-common.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/include/config_cmd_default.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/arch/arm/include/asm/config.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/include/config_fallbacks.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/include/config_uncmd_spl.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/include/linux/linux_string.h

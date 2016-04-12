@@ -1,0 +1,10 @@
+cmd_nvedit.c:208:12:0	72	static
+cmd_nvedit.c:69:5:get_env_id	0	static
+cmd_nvedit.c:282:5:setenv	24	static
+cmd_nvedit.c:303:5:setenv_ulong	8	static
+cmd_nvedit.c:318:5:setenv_hex	32	static
+cmd_nvedit.c:711:5:envmatch	24	static
+cmd_nvedit.c:630:5:getenv_f	32	static
+cmd_nvedit.c:606:7:getenv	48	static
+cmd_nvedit.c:674:7:getenv_ulong	16	static
+cmd_nvedit.c:326:7:getenv_hex	24	static

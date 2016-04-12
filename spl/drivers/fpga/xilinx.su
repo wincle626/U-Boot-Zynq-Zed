@@ -1,0 +1,6 @@
+xilinx.c:405:12:xilinx_validate	8	static
+xilinx.c:38:5:fpga_loadbitstream	120	static
+xilinx.c:146:5:xilinx_fsload	24	static
+xilinx.c:176:5:xilinx_load	24	static
+xilinx.c:234:5:xilinx_dump	16	static
+xilinx.c:291:5:xilinx_info	16	static

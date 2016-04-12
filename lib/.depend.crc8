@@ -1,0 +1,2 @@
+crc8.o: crc8.c \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1-zed/include/linux/crc8.h

@@ -1,0 +1,8 @@
+zynqpl.c:159:12:4	16	static
+zynqpl.c:74:12:load_word	0	static
+zynqpl.c:289:13:zynq_align_dma_buffer	32	static
+zynqpl.c:327:12:3	40	static
+zynqpl.c:43:5:zynq_info	0	static
+zynqpl.c:360:5:zynq_fsload	48	static
+zynqpl.c:442:5:zynq_load	32	static
+zynqpl.c:488:5:zynq_dump	0	static

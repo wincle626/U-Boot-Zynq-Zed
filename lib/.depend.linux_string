@@ -1,0 +1,20 @@
+linux_string.o: linux_string.c \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/linux/ctype.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/linux/string.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/linux/types.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/linux/posix_types.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/linux/stddef.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/arch/arm/include/asm/posix_types.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/arch/arm/include/asm/types.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabi/4.7/include/stdbool.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/arch/arm/include/asm/string.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/config.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/config_cmd_defaults.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/config_defaults.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/configs/zynq_zc70x.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/configs/zynq-common.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/config_cmd_default.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/arch/arm/include/asm/config.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/config_fallbacks.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/config_uncmd_spl.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/linux/linux_string.h

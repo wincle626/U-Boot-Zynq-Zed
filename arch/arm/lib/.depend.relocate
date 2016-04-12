@@ -1,0 +1,3 @@
+relocate.o: relocate.S \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/linux/linkage.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/arch/arm/include/asm/linkage.h

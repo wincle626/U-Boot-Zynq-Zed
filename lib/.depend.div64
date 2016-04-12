@@ -1,0 +1,7 @@
+div64.o: div64.c \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/linux/types.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/linux/posix_types.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/include/linux/stddef.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/arch/arm/include/asm/posix_types.h \
+ /home/jackywu/Downloads/gitdir/xilinx-tag/u-boot-xlnx/u-boot-xlnx-xilinx-v2014.1/arch/arm/include/asm/types.h \
+ /usr/lib/gcc-cross/arm-linux-gnueabi/4.7/include/stdbool.h
